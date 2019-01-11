@@ -1,4 +1,4 @@
-package com.cplane.ic.eai.adapter.dockerController.v1_0.util.validator;
+package com.gigi.validator;
 
 import org.codehaus.jackson.JsonParser;
 import org.codehaus.jackson.map.ObjectMapper;
